@@ -1,4 +1,4 @@
-# Default Probability Prediction | [View Code](https://github.com/Matsalak-Viktoria/Default-Probability-Prediction/blob/main/Default_Probability_Prediction.ipynb)
+# Default Probability Prediction | [Kaggle Link](https://www.kaggle.com/competitions/dan-it-data-science-step-project-1/overview) | [View Code](https://github.com/Matsalak-Viktoria/Default-Probability-Prediction/blob/main/Default_Probability_Prediction.ipynb)
 
 ## Overview
 This project explores the implementation and evaluation of a machine learning pipeline for loan default prediction using customer credit and loan data.
