@@ -11,8 +11,10 @@ The project focuses on the following prediction task:
 ## Objectives
 The main objectives of this project are:
 - Perform Exploratory Data Analysis (EDA) to understand feature distributions and relationships with the target variable.
-- Build and evaluate a machine learning pipeline for credit risk classification using the Credit Risk dataset.
-- Analyze the experimental results by comparing the performance of Logistic Regression, Naive Bayes, Decision Tree, and K-Nearest Neighbors (KNN) to identify the most effective classification model.
+- Prepare the data for modeling through data preprocessing, feature engineering, and feature selection.
+- Train and optimize a LightGBM classification model using Optuna.
+- Evaluate the model's predictive performance using ROC AUC.
+- Interpret the model's results using feature importance and SHAP.
 
 ## Dataset
 
