@@ -1,6 +1,12 @@
 # Default Probability Prediction | [View Code](https://github.com/Matsalak-Viktoria/Default-Probability-Prediction/blob/main/Default_Probability_Prediction.ipynb)
 
 ## Overview
+This project explores the implementation and evaluation of a machine learning pipeline for loan default prediction using customer credit and loan data.
+
+The main goal of the project is to build a classification model for predicting the probability of loan default using exploratory data analysis, data preprocessing, feature engineering, feature selection, and hyperparameter tuning with Optuna.
+
+The project focuses on the following prediction task:
+- Loan Default Prediction - Predicting the probability that a customer will default on a loan based on demographic, financial, and credit history information.
 
 ## Objectives
 
