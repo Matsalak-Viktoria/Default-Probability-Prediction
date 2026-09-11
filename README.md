@@ -9,6 +9,10 @@ The project focuses on the following prediction task:
 - Loan Default Prediction - Predicting the probability that a customer will default on a loan based on demographic, financial, and credit history information.
 
 ## Objectives
+The main objectives of this project are:
+- Perform Exploratory Data Analysis (EDA) to understand feature distributions and relationships with the target variable.
+- Build and evaluate a machine learning pipeline for credit risk classification using the Credit Risk dataset.
+- Analyze the experimental results by comparing the performance of Logistic Regression, Naive Bayes, Decision Tree, and K-Nearest Neighbors (KNN) to identify the most effective classification model.
 
 ## Dataset
 
