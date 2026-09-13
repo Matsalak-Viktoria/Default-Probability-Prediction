@@ -1,18 +1,18 @@
-# Default Probability Prediction | [Kaggle Link](https://www.kaggle.com/competitions/dan-it-data-science-step-project-1/overview) | [View Code](https://github.com/Matsalak-Viktoria/Default-Probability-Prediction/blob/main/Default_Probability_Prediction.ipynb)
+# Loan Default Prediction | [Kaggle Link](https://www.kaggle.com/competitions/dan-it-data-science-step-project-1/overview) | [View Code](https://github.com/Matsalak-Viktoria/Default-Probability-Prediction/blob/main/Default_Probability_Prediction.ipynb)
 
 ## Overview
-This project explores the implementation and evaluation of a machine learning pipeline for default probability prediction using customer credit and loan data.
+This project explores the implementation and evaluation of a machine learning pipeline for loan default prediction using customer credit and loan data.
 
 The main goal of the project is to build a classification model for predicting the probability of loan default using exploratory data analysis, data preprocessing, feature engineering, feature selection, and hyperparameter tuning with Optuna.
 
 The project focuses on the following prediction task:
-- Default Probability Prediction - Predicting the probability that a customer will default on a loan based on demographic, financial, and credit history information.
+- Loan Default Prediction - Predicting the probability that a customer will default on a loan based on demographic, financial, and credit history information.
 
 ## Objectives
 The main objectives of this project are:
 - Perform Exploratory Data Analysis (EDA) to understand feature distributions and relationships with the target variable.
 - Prepare the data for modeling through data preprocessing, feature engineering, and feature selection.
-- Build a LightGBM classification model for default probability prediction and optimize its hyperparameters using Optuna.
+- Build a LightGBM classification model for loan default prediction and optimize its hyperparameters using Optuna.
 - Evaluate the model's predictive performance using ROC AUC.
 - Interpret the model's results using feature importance and SHAP.
 
