@@ -12,7 +12,7 @@ The project focuses on the following prediction task:
 The main objectives of this project are:
 - Perform Exploratory Data Analysis (EDA) to understand feature distributions and relationships with the target variable.
 - Prepare the data for modeling through data preprocessing, feature engineering, and feature selection.
-- Build a LightGBM classification model for predicting the probability of loan default and optimize its hyperparameters using Optuna.
+- Build a LightGBM classification model for loan default prediction and optimize its hyperparameters using Optuna.
 - Evaluate the model's predictive performance using ROC AUC.
 - Interpret the model's results using feature importance and SHAP.
 
