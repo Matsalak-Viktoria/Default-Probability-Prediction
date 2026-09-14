@@ -17,6 +17,47 @@ The main objectives of this project are:
 - Interpret the model's results using feature importance and SHAP.
 
 ## Dataset
+- **UniqueID**:	Unique identifier for each customer record.
+- **disbursed_amount**:	Amount of the loan disbursed to the customer.
+- **asset_cost**:	Cost of the asset being financed by the loan.
+- **ltv**:	Loan-to-value (LTV) ratio representing the loan amount relative to the value of the financed asset.
+- **branch_id**:	Identifier of the branch where the loan was disbursed.
+- **supplier_id**:	Identifier of the supplier associated with the financed asset.
+- **manufacturer_id**:	Identifier of the manufacturer of the financed asset.
+- **Current_pincode_ID**:	Identifier associated with the customer's current postal area.
+- **Date.of.Birth**:	Customer's date of birth.
+- **Employment.Type**:	Customer's employment type.
+- **DisbursalDate**:	Date on which the loan was disbursed.
+- **State_ID**:	Identifier of the state associated with the loan.
+- **Employee_code_ID**:	Identifier of the employee associated with the loan disbursement.
+- **MobileNo_Avl_Flag**:	Indicates whether a mobile phone number is available for the customer.
+- **Aadhar_flag**:	Indicates whether an Aadhar card is available for the customer.
+- **PAN_flag**:	Indicates whether a PAN card is available for the customer.
+- **VoterID_flag**:	Indicates whether a Voter ID is available for the customer.
+- **Driving_flag**:	Indicates whether a driving license is available for the customer.
+- **Passport_flag**:	Indicates whether a passport is available for the customer.
+- **PERFORM_CNS.SCORE**:	Credit bureau score representing the customer's credit profile.
+- **PERFORM_CNS.SCORE.DESCRIPTION**:	Categorical description of the customer's credit bureau score.
+- **PRI.NO.OF.ACCTS**:	Total number of primary credit accounts in the customer's credit history.
+- **PRI.ACTIVE.ACCTS**:	Number of active primary credit accounts.
+- **PRI.OVERDUE.ACCTS**:	Number of overdue primary credit accounts.
+- **PRI.CURRENT.BALANCE**:	Total current balance across the customer's primary credit accounts.
+- **PRI.SANCTIONED.AMOUNT**:	Total sanctioned amount across the customer's primary credit accounts.
+- **PRI.DISBURSED.AMOUNT**:	Total disbursed amount across the customer's primary credit accounts.
+- **SEC.NO.OF.ACCTS**:	Total number of secondary credit accounts in the customer's credit history.
+- **SEC.ACTIVE.ACCTS**:	Number of active secondary credit accounts.
+- **SEC.OVERDUE.ACCTS**:	Number of overdue secondary credit accounts.
+- **SEC.CURRENT.BALANCE**:	Total current balance across the customer's secondary credit accounts.
+- **SEC.SANCTIONED.AMOUNT**:	Total sanctioned amount across the customer's secondary credit accounts.
+- **SEC.DISBURSED.AMOUNT**:	Total disbursed amount across the customer's secondary credit accounts.
+- **PRIMARY.INSTAL.AMT**:	Total installment amount associated with primary credit accounts.
+- **SEC.INSTAL.AMT**:	Total installment amount associated with secondary credit accounts.
+- **NEW.ACCTS.IN.LAST.SIX.MONTHS**:	Number of new credit accounts opened in the last six months.
+- **DELINQUENT.ACCTS.IN.LAST.SIX.MONTHS**:	Number of delinquent credit accounts in the last six months.
+- **AVERAGE.ACCT.AGE**:	Average age of the customer's credit accounts.
+- **CREDIT.HISTORY.LENGTH**:	Length of the customer's credit history.
+- **NO.OF_INQUIRIES**:	Number of credit bureau inquiries associated with the customer.
+- **loan_default**:	Target variable indicating whether the loan defaulted (0 = No Default, 1 = Default).
 
 ## Workflow
 
